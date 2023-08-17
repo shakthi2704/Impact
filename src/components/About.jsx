@@ -69,7 +69,7 @@ const About = () => {
                   className="img-fluid rounded-4"
                   alt="logoo"
                 />
-                <a href="#" className="glightbox play-btn"></a>
+                {/* <a href="#" className="glightbox play-btn"></a> */}
               </div>
             </div>
           </div>
