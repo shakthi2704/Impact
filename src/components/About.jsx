@@ -67,7 +67,7 @@ const About = () => {
                 <img
                   src={images.about_2}
                   className="img-fluid rounded-4"
-                  alt="logo"
+                  alt="logoo"
                 />
                 <a href="" className="glightbox play-btn"></a>
               </div>
