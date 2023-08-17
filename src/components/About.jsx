@@ -19,7 +19,7 @@ const About = () => {
             <img
               src={images.about}
               className="img-fluid rounded-4 mb-4"
-              alt="image"
+              alt="logo"
             />
             <p>
               Ut fugiat ut sunt quia veniam. Voluptate perferendis perspiciatis
@@ -67,7 +67,7 @@ const About = () => {
                 <img
                   src={images.about_2}
                   className="img-fluid rounded-4"
-                  alt="image"
+                  alt="logo"
                 />
                 <a href="" className="glightbox play-btn"></a>
               </div>
